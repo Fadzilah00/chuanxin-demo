@@ -120,3 +120,7 @@ This project can be deployed to various platforms:
 ## License
 
 This project is licensed under the MIT License.
+
+## Demo Website
+Visit the live site here 👉 [https://chuanxin-demo.vercel.app](https://chuanxin-demo.vercel.app)
+
