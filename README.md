@@ -2,7 +2,7 @@
 
 > A modern, responsive demo website for **Chuanxin** — a client-facing platform prototype built with **Nuxt 3**, **Vue.js**, and **Tailwind CSS**.
 
-![Chuanxin Demo Screenshot](public/screenshot.png)
+![Chuanxin Demo Screenshot](public/1.png)
 
 <p align="center">
   <a href="https://chuanxin-demo.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-green?style=for-the-badge"></a>
@@ -62,33 +62,29 @@
 
 ### Installation
 
-```bash
-# Install dependencies
+
+### Install dependencies
 npm install
 
-# Run locally
+### Run locally
 npm run dev
 
-# 🏗️ Build for Production
-npm run build
-
-# 🧱 Generate Static Site
-npm run generate
-
-# 🧰 Deployment
-
+### 🚀 Deployment
 This project is automatically deployed via Vercel.
-Each time you push code to GitHub, Vercel redeploys the latest version.
+Each time you push code to GitHub, Vercel redeploys the latest version automatically.
 
-# 🔁 CI/CD Integrated
+### 🔁 CI/CD Integrated
+✅ Automatic build & deploy pipeline using GitHub → Vercel  
+✅ Zero downtime with instant rollback  
+✅ Live updates on every push
 
-# 🌐 Hosted at: https://chuanxin-demo.vercel.app
+### 🌐 Hosted at
+🔗 https://chuanxin-demo.vercel.app
 
-# 🧑‍💻 Developer Info
-
-Developer: Ainatul Fadzilah
+### 🧑‍💻 Developer Info
+Developer: Ainatul Fadzilah  
 GitHub: @Fadzilah00
 
-# 🪪 License
-
+### 🪪 License
 This project is licensed under the MIT License – free to use and modify.
+
