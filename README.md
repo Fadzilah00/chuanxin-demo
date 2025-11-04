@@ -2,7 +2,7 @@
 
 > A modern, responsive demo website for **Chuanxin** — a client-facing platform prototype built with **Nuxt 3**, **Vue.js**, and **Tailwind CSS**.
 
-![Chuanxin Demo Screenshot](public/icon.PNG)
+![Chuanxin Demo Screenshot](https://github.com/Fadzilah00/chuanxin-demo/blob/main/public/1.png?raw=true)
 
 <p align="center">
   <a href="https://chuanxin-demo.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-green?style=for-the-badge"></a>
