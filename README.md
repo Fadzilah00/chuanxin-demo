@@ -1,61 +1,36 @@
-# Chuanxin Website
+# 🌐 Chuanxin Demo Website
 
-A modern, responsive website for Chuanxin - China's QQLink, built with Nuxt.js and Vue 3.
+> A modern, responsive demo website for **Chuanxin** — a client-facing platform prototype built with **Nuxt 3**, **Vue.js**, and **Tailwind CSS**.
 
-## Features
+![Chuanxin Demo Screenshot](public/screenshot.png)
 
-- **Modern Design**: Clean, responsive design with Tailwind CSS
-- **Vue 3**: Built with the latest Vue.js framework
-- **Nuxt.js**: Full-stack Vue framework with automatic routing
-- **Responsive**: Mobile-first design that works on all devices
-- **SEO Optimized**: Meta tags and structured data for search engines
+<p align="center">
+  <a href="https://chuanxin-demo.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-green?style=for-the-badge"></a>
+  <a href="https://github.com/Fadzilah00/chuanxin-demo"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"></a>
+</p>
 
-## Pages
+---
 
-- **Home**: Hero section with logo, tagline, and feature highlights
-- **About Us**: Company information, mission, and values
-- **Contact**: Contact form and company information
+## 🚀 Live Demo
 
-## Components
+🔗 **Visit now:** [https://chuanxin-demo.vercel.app](https://chuanxin-demo.vercel.app)
 
-- **Button**: Reusable button component with variants
-- **Navbar**: Responsive navigation with mobile menu
-- **Footer**: Company links and social media
+---
 
-## Getting Started
+## ✨ Features
 
-### Prerequisites
+- 💡 **Modern UI** – Clean and professional design using Tailwind CSS  
+- ⚡ **Fast Performance** – Built with Nuxt 3 for SSR and static generation  
+- 📱 **Responsive** – Works on desktop, tablet, and mobile  
+- 🌍 **Multilingual Ready** – Supports i18n translation system  
+- 🧩 **Reusable Components** – Navbar, Footer, Buttons, and more  
+- 🔍 **SEO Optimized** – Meta tags and semantic structure
 
-- Node.js (v16 or higher)
-- npm or yarn
+---
 
-### Installation
+## 📂 Project Structure
 
-1. Install dependencies:
-```bash
-npm install
-```
 
-2. Start the development server:
-```bash
-npm run dev
-```
-
-3. Open your browser and navigate to `http://localhost:3000`
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-### Generate Static Site
-
-```bash
-npm run generate
-```
-
-## Project Structure
 
 ```
 ├── assets/
@@ -76,51 +51,44 @@ npm run generate
 └── tailwind.config.js        # Tailwind CSS configuration
 ```
 
-## Customization
 
-### Styling
+---
 
-The project uses Tailwind CSS for styling. You can customize the design by:
+## 🛠️ Getting Started
 
-1. Modifying the `tailwind.config.js` file
-2. Adding custom styles in `assets/css/main.css`
-3. Using Tailwind utility classes in components
+### Prerequisites
+- Node.js v16+
+- npm or yarn
 
-### Content
+### Installation
 
-To update the content:
+```bash
+# Install dependencies
+npm install
 
-1. **Logo and Branding**: Update the "Chuanxin" text in components and pages
-2. **Company Information**: Modify the About page content
-3. **Contact Information**: Update contact details in the Contact page
-4. **App URL**: Change the app URL in the Button component's `openApp` function
+# Run locally
+npm run dev
 
-### Adding New Pages
+# 🏗️ Build for Production
+npm run build
 
-1. Create a new `.vue` file in the `pages/` directory
-2. The routing will be automatic based on the file name
-3. Use the default layout or create a custom layout
+# 🧱 Generate Static Site
+npm run generate
 
-## Deployment
+# 🧰 Deployment
 
-This project can be deployed to various platforms:
+This project is automatically deployed via Vercel.
+Each time you push code to GitHub, Vercel redeploys the latest version.
 
-- **Vercel**: Connect your GitHub repository
-- **Netlify**: Deploy from Git or drag and drop
-- **AWS Amplify**: Connect repository and deploy
-- **Traditional hosting**: Build the project and upload the `dist/` folder
+# 🔁 CI/CD Integrated
 
-## Browser Support
+# 🌐 Hosted at: https://chuanxin-demo.vercel.app
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
+# 🧑‍💻 Developer Info
 
-## License
+Developer: Ainatul Fadzilah
+GitHub: @Fadzilah00
 
-This project is licensed under the MIT License.
+# 🪪 License
 
-## Demo Website
-Visit the live site here 👉 [https://chuanxin-demo.vercel.app](https://chuanxin-demo.vercel.app)
-
+This project is licensed under the MIT License – free to use and modify.
